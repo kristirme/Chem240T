@@ -1,6 +1,6 @@
 # Chem240T
 
-00_python_basics.ipynb and 01_file_parsing.ipynb are adapted from MolSSI Python Scripting for Computational Molecular Science.
+00_python_basics.ipynb and 01_file_parsing.ipynb and data are adapted from MolSSI Python Scripting for Computational Molecular Science.
 
 The original workshop materials can be found here: 
 
